@@ -118,7 +118,19 @@ TIME_ZONE = 'America/Sao_Paulo'
 USE_I18N = True
 
 USE_TZ = True
+# AWS Configuração
 
+AWS_ACCESS_KEY_ID
+
+AWS_SECRET_ACCESS_KEY
+
+AWS_STORAGE_BUCKET_NAME
+
+AWS_S3_CUSTOM_DOMAIN
+
+AWS_DEFAULT_ACL
+
+AWS_S3_OBJECT_PARAMETERS
 
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/4.1/howto/static-files/
